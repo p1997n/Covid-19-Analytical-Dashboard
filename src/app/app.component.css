@@ -6,3 +6,6 @@
     font-size: 0.9em;
     margin-top: -0.4em;
   }
+body {
+    background-color: #f7f7f7 !important;
+}
